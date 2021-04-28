@@ -6,8 +6,7 @@ services:
 before_install:
   - docker pull hello-world
   - docker ps
-  - docker run hello-world
-  - docker ps
 
 script:
   - echo "hello there"
+  - ps -ef
