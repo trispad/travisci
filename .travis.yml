@@ -1,4 +1,5 @@
 dist: bionic
+arch: amd64
 language: bash
 
 services:
