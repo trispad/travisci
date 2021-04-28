@@ -1,4 +1,4 @@
-diskt: bionic
+dist: bionic
 language: bash
 
 services:
