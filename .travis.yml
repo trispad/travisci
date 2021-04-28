@@ -1,5 +1,7 @@
 dist: bionic
-arch: amd64
+arch: arm64
+virt: lxd
+os: linux
 language: bash
 
 services:
